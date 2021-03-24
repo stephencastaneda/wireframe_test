@@ -1,0 +1,42 @@
+/* 
+Body background color #161CF0
+
+Text color white 
+
+Image border
+
+Buttons 
+
+
+
+
+*/
+
+body {
+  background-color: #161CF0;
+  color: white; 
+  margin: auto;
+}
+
+img {
+  border: 10px solid purple;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%
+}
+
+li {
+  border: 1px solid red;
+  display: inline;
+  text-transform: uppercase;
+  padding: 4px;
+}
+
+ul {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
